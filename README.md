@@ -1,4 +1,4 @@
-# agents
+# 我的浏览器插件：浏览器网页、PDF，划词、截图、自定义SKILL、视听说多模态 Agents 
 
 <img width="1280" height="800" alt="01-pdf编辑、阅读以及AI辅助" src="https://github.com/user-attachments/assets/3543a998-d384-492b-ad31-ae6e3bc6f6c5" />
 <img width="1280" height="800" alt="02-网页实时截图，问答抽取内容" src="https://github.com/user-attachments/assets/8ba5dfed-7ec5-44d8-876f-c26fc0ae612a" />
