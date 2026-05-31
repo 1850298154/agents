@@ -1,4 +1,12 @@
-# 我的浏览器插件：浏览器网页、PDF，划词、截图、自定义SKILL、视听说多模态 Agents 
+# 浏览器插件【Agent】：浏览器网页、PDF，划词、截图、自定义SKILL、视听说多模态 Agents 
+
+这里可以下载zip包在edge浏览器中加载该插件
+
+# Browser Extension Agent: Multimodal Agent for Web Pages, PDFs, Word Highlighting, Screenshots, Custom Skills & Audio-Visual Learning
+
+Browser Extension Agent: Supports web & PDF, text highlighting, screenshots, custom skills, and audio-visual multimodal agents.
+
+Download the ZIP file here and load the extension in Microsoft Edge.
 
 <img width="1280" height="800" alt="01-pdf编辑、阅读以及AI辅助" src="https://github.com/user-attachments/assets/3543a998-d384-492b-ad31-ae6e3bc6f6c5" />
 <img width="1280" height="800" alt="02-网页实时截图，问答抽取内容" src="https://github.com/user-attachments/assets/8ba5dfed-7ec5-44d8-876f-c26fc0ae612a" />
